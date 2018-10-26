@@ -1,11 +1,17 @@
 ### Summary
-* Strong experience in using Java.
+
+* Language Java and English - That to clean and fluent!!
+* Large Sacalable distributed systems.
+* Experience in the areas of high-load/high-throughput applications.
 * Strong emphasis on unit testing (plus integration, end-to-end). 
 * A strong commitment to quality.
 * Communicate With Stakeholders on a Daily basis.
 * Product-focused  - Working Real time with direct impact.
-* Loves speed and code quality . 
+* Loves speed and code quality. 
+* Passion to write Clean Code.
 * Multiple Deployment on the Go Some time Every hour!!
-* Large Sacalable distributed systems
-* Experience with Kafka other streams-based platform (Samza, Storm).
-* Expertise with microservices and message-based architectures.
+* Streams -  with Kafka other streams-based platform (Samza, Storm).
+* Expertise with Microservices and message-based architectures.
+* Blocking - Non Blocking.
+* Good database knowledge (Strong SQL skills), with desirable experience with MySQL RDBMS
+* Linux - Is Every Day BFF (A developer should be CLI Friendly !!)
