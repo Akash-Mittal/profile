@@ -18,4 +18,8 @@
 
 #### Movies.
 
-* Gladiator https://oload.icu/f/d8NTCCAUj-8/Gladiator.2000.EXTENDED.REMASTERED.720p.BluRay.x264-SiNNERS.mkv.mp4
+* Gladiator 
+
+https://oload.icu/f/d8NTCCAUj-8/Gladiator.2000.EXTENDED.REMASTERED.720p.BluRay.x264-SiNNERS.mkv.mp4
+
+https://movieninja.io/movie/gladiator-5x0mkj6y/watch#2ng8q1y70o2m9yjq
