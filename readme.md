@@ -1,7 +1,7 @@
 ### Summary
 
 * Language Java and English - That to clean and fluent!!
-* Large Sacalable distributed systems.
+* Scalable `API`, `Services` - `GRPC`, `Vert.x` and many things.
 * Experience in the areas of high-load/high-throughput applications.
 * Strong emphasis on unit testing (plus integration, end-to-end). 
 * A strong commitment to quality.
