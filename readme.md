@@ -23,6 +23,7 @@
 * React JS.
 * GRPC
 * Gatling https://gatling.io/
+* Jekyll https://jekyllrb.com/
 
 # Roles Worked.
 
