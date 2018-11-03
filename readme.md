@@ -16,7 +16,7 @@
 * Good database knowledge (Strong SQL skills), with desirable experience with MySQL RDBMS
 * Linux - Is Every Day BFF (A developer should be CLI Friendly !!)
 
-# Technologies
+# Deep Insight.
 
 * Graph QL.
     * https://www.howtographql.com/basics/0-introduction/
