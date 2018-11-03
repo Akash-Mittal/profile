@@ -20,7 +20,7 @@
 
 * Graph QL.
     * https://www.howtographql.com/basics/0-introduction/
-    * https://www.youtube.com/watch?v=ed8SzALpx1Q
+    * https://www.youtube.com/watch?v=ed8SzALpx1Q  Completed 8 Lessons to start from 48:23 / 4:05:05
 * Vert.x io
 * React JS.
 * GRPC
