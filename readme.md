@@ -16,17 +16,17 @@
 * Good database knowledge (Strong SQL skills), with desirable experience with MySQL RDBMS
 * Linux - Is Every Day BFF (A developer should be CLI Friendly !!)
 
-# Deep Insight.
+# Cool Stuff.
 
 * Graph QL.
     * https://www.howtographql.com/basics/0-introduction/
     * https://www.youtube.com/watch?v=ed8SzALpx1Q
-
 * Vert.x io
 * React JS.
 * GRPC
 * Gatling https://gatling.io/
-* Jekyll https://jekyllrb.com/
+* Jekyll -Static Website Generator  https://jekyllrb.com/
+* CMDER -Portable console emulator for Windows  http://cmder.net/
 
 # Roles Worked.
 
