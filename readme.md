@@ -16,14 +16,13 @@
 * Good database knowledge (Strong SQL skills), with desirable experience with MySQL RDBMS
 * Linux - Is Every Day BFF (A developer should be CLI Friendly !!)
 
-#### Movies.
+# Technologies
 
-* Gladiator 
-
-https://oload.icu/f/d8NTCCAUj-8/Gladiator.2000.EXTENDED.REMASTERED.720p.BluRay.x264-SiNNERS.mkv.mp4
-
-https://movieninja.io/movie/gladiator-5x0mkj6y/watch#2ng8q1y70o2m9yjq
-
+* Graph QL.
+* Vert.x io
+* React JS.
+* GRPC
+* Gatling https://gatling.io/
 
 # Roles Worked.
 
@@ -50,3 +49,10 @@ https://movieninja.io/movie/gladiator-5x0mkj6y/watch#2ng8q1y70o2m9yjq
 * Testing on Daily Deployment.
 * Close JIRA After prod release.
 
+#### Movies.
+
+* Gladiator 
+
+https://oload.icu/f/d8NTCCAUj-8/Gladiator.2000.EXTENDED.REMASTERED.720p.BluRay.x264-SiNNERS.mkv.mp4
+
+https://movieninja.io/movie/gladiator-5x0mkj6y/watch#2ng8q1y70o2m9yjq
