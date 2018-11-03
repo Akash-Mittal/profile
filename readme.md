@@ -19,6 +19,9 @@
 # Technologies
 
 * Graph QL.
+    * https://www.howtographql.com/basics/0-introduction/
+    * https://www.youtube.com/watch?v=ed8SzALpx1Q
+
 * Vert.x io
 * React JS.
 * GRPC
