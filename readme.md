@@ -33,6 +33,8 @@
    * https://www.baeldung.com/microservices-oracle-helidon 
 * Spring Webflusx - Reactive Framce Work.
    * https://dzone.com/articles/spring-webflux-getting-started
+   * https://www.infoq.com/presentations/reactive-streams-rsocket
+   * `From` - https://www.baeldung.com/java-weekly-253
 * Ratpack - Spring Boot Like FrameWork.
    * https://ratpack.io/
    
