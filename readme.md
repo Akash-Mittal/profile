@@ -26,7 +26,7 @@
 * GRPC
 * Gatling - Akka Based Load Testing. 
    * https://gatling.io/
-   * 
+   * Learn Scala to Use this tool.
 * Jekyll -Static Website Generator  https://jekyllrb.com/
 * CMDER -Portable console emulator for Windows  http://cmder.net/\
 * `Mongo DB As Service` https://mlab.com/
@@ -65,10 +65,13 @@
 * Testing on Daily Deployment.
 * Close JIRA After prod release.
 
-#### Movies.
+#### Favorites.
 
-* Gladiator 
+* Scott Hanselman
 
-https://oload.icu/f/d8NTCCAUj-8/Gladiator.2000.EXTENDED.REMASTERED.720p.BluRay.x264-SiNNERS.mkv.mp4
+   * GOTO 2012 • Scaling Yourself • https://www.youtube.com/watch?v=FS1mnISoG7U
 
-https://movieninja.io/movie/gladiator-5x0mkj6y/watch#2ng8q1y70o2m9yjq
+* Gladiator
+
+   * https://oload.icu/f/d8NTCCAUj-8/Gladiator.2000.EXTENDED.REMASTERED.720p.BluRay.x264-SiNNERS.mkv.mp4
+   * https://movieninja.io/movie/gladiator-5x0mkj6y/watch#2ng8q1y70o2m9yjq
