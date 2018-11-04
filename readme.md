@@ -24,7 +24,9 @@
 * Vert.x io
 * React JS.
 * GRPC
-* Gatling https://gatling.io/
+* Gatling - Akka Based Load Testing. 
+   * https://gatling.io/
+   * 
 * Jekyll -Static Website Generator  https://jekyllrb.com/
 * CMDER -Portable console emulator for Windows  http://cmder.net/\
 * `Mongo DB As Service` https://mlab.com/
