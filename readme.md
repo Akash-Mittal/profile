@@ -72,6 +72,16 @@
 * Testing on Daily Deployment.
 * Close JIRA After prod release.
 
+### Work Ethics
+####Customer Interaction:
+	Be Cautious 
+	If you are in any Chat groups like Whats App with customer. 
+	Any communication over there will get treated as official communication.
+	Humble 
+	Be very polite in any communication with customer.
+	Still if you ever has lose your cool with customer for any unforeseen reason, inform your RO immediately.
+
+
 ### Favorites.
 
 * Conferences
