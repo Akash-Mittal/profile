@@ -73,13 +73,22 @@
 * Close JIRA After prod release.
 
 ### Work Ethics
-####Customer Interaction:
-	Be Cautious 
-	If you are in any Chat groups like Whats App with customer. 
-	Any communication over there will get treated as official communication.
-	Humble 
-	Be very polite in any communication with customer.
-	Still if you ever has lose your cool with customer for any unforeseen reason, inform your RO immediately.
+* Customer Interaction:
+	* Be Cautious 
+		* If you are in any Chat groups like Whats App with customer. 
+		* Any communication over there will get treated as official communication.
+	* Humble 
+		* Be very polite in any communication with customer.
+		* Still if you ever has lose your cool with customer for any unforeseen reason, inform your RO immediately.
+* Planned leave 
+	* Communication 
+		* Has to be communicated to the customer and RO in advance.
+		* Informing RO and assuming that I have communicated to the customer, will not work.
+* Production Issues
+	* Production issue takes highest priority on top of any development work.
+	* Inform RO immediately as soon as you receive any production issue to work upon.
+	* Send regular updates on hourly basis of your findings.
+	* Give proper handover to Offshore and Onshore  teams before logging off for the day.
 
 
 ### Favorites.
