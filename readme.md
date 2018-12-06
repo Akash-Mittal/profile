@@ -28,32 +28,29 @@
 * Technical Consultant
 * Data Engineer.
 
-### Cool Stuff.
+### Things to Learn - Thats interests me.
 
 * Graph QL.
-    * https://www.howtographql.com/basics/0-introduction/
-    * https://www.youtube.com/watch?v=ed8SzALpx1Q  
+    * [Tutorial](https://www.howtographql.com/basics/0-introduction/)
+    * [Tutorial](https://www.youtube.com/watch?v=ed8SzALpx1Q)
 		* Completed 8 Lessons to start from 48:23 / 4:05:05
 * Vert.x io - Eclipse's very own reactive framework. 
 * React JS.
 * GRPC
-* Gatling - `AKKA` Based Load Testing. 
-   * https://gatling.io/
+* [Gatling]( https://gatling.io/) - `AKKA` Based Load Testing. 
    * Learn `Scala` to Use this tool.
-* MongoDB `DB As Service` https://mlab.com/
-*  Micro Services with `Oracle Helidon`
-   * https://helidon.io/
+* [MongoDB `DB As Service`] (https://mlab.com/)
+*  Micro Services with [`Oracle Helidon`](https://helidon.io/) 
    * https://www.baeldung.com/microservices-oracle-helidon 
-* Spring Webflux - Reactive Frame Work.
+* Spring Webflux - Reactive Frame Work.   * 
+   * [Tutorial](https://dzone.com/articles/spring-webflux-getting-started)
+   * [Tutorial](https://www.infoq.com/presentations/reactive-streams-rsocket)
    * Internally Use.
-      * https://projectreactor.io/
-   * https://dzone.com/articles/spring-webflux-getting-started
-   * https://www.infoq.com/presentations/reactive-streams-rsocket
-   * `From` - https://www.baeldung.com/java-weekly-253
-* Ratpack - Spring Boot Like FrameWork.
-   * https://ratpack.io/
-* Jekyll - Static Website Generator  https://jekyllrb.com/
-* CMDER - Portable console emulator for Windows  http://cmder.net/\
+      * [Project Reactor](https://projectreactor.io/)
+   * [`Got to know From`](https://www.baeldung.com/java-weekly-253)
+* [Ratpack](https://ratpack.io/) - Spring Boot Like FrameWork.   
+* [Jekyll](https://jekyllrb.com/) - Static Website Generator
+* [CMDER](http://cmder.net/) - Portable console emulator for Windows  
    
 ### Dev Life Cycle.
 
@@ -73,6 +70,7 @@
 * Close JIRA After prod release.
 
 ### Work Ethics
+
 * Customer Interaction:
 	* Be Cautious 
 		* If you are in any Chat groups like Whats App with customer. 
@@ -94,13 +92,11 @@
 ### Favorites.
 
 * Conferences
-	* https://www.youtube.com/user/GotoConferences
+	* [GoTo Confrences..](https://www.youtube.com/user/GotoConferences)
 * Movies
-	* Gladiator
-		* https://oload.icu/f/d8NTCCAUj-8/Gladiator.2000.EXTENDED.REMASTERED.720p.BluRay.x264-SiNNERS.mkv.mp4
-		* https://movieninja.io/movie/gladiator-5x0mkj6y/watch#2ng8q1y70o2m9yjq
-	* Behind Enemy Lines
-		* http://putlockers.asia/behind-enemy-lines-2001/
+	* [Gladiator](https://oload.icu/f/d8NTCCAUj-8/Gladiator.2000.EXTENDED.REMASTERED.720p.BluRay.x264-SiNNERS.mkv.mp4)
+		* [Another Link](https://movieninja.io/movie/gladiator-5x0mkj6y/watch#2ng8q1y70o2m9yjq)		
+	* [Behind Enemy Lines](http://putlockers.asia/behind-enemy-lines-2001/)
 * People
 	* Scott Hanselman
 		* [GOTO 2012 Scaling Yourself](https://www.youtube.com/watch?v=FS1mnISoG7U)
@@ -109,6 +105,5 @@
 	* [Tim Ferris](https://en.wikipedia.org/wiki/Tim_Ferriss)		
 	* [Sam Manekshaw](https://en.wikipedia.org/wiki/Sam_Manekshaw)
 	
-
 * Books
 		
