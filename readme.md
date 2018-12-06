@@ -103,10 +103,12 @@
 		* http://putlockers.asia/behind-enemy-lines-2001/
 * People
 	* Scott Hanselman
-		* GOTO 2012 Scaling Yourself  https://www.youtube.com/watch?v=FS1mnISoG7U
+		* [GOTO 2012 Scaling Yourself](https://www.youtube.com/watch?v=FS1mnISoG7U)
 	* Linus Trovald
-		* https://www.youtube.com/watch?v=o8NPllzkFhE
-	* Tim Ferris
-		* https://en.wikipedia.org/wiki/Tim_Ferriss
+		* [Nice Video](https://www.youtube.com/watch?v=o8NPllzkFhE)
+	* [Tim Ferris](https://en.wikipedia.org/wiki/Tim_Ferriss)		
+	* [Sam Manekshaw](https://en.wikipedia.org/wiki/Sam_Manekshaw)
+	
+
 * Books
 		
