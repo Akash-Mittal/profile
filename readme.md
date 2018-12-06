@@ -52,6 +52,34 @@
 * [Jekyll](https://jekyllrb.com/) - Static Website Generator
 * [CMDER](http://cmder.net/) - Portable console emulator for Windows  
    
+### Things to Learn/To Do - Thats interests me and are not techinical or relates to my profession !!.
+* Guitar 
+* Languages
+  * Gujrati.
+  * Kashimiri 
+  * German
+* Mountaineering Course.
+  * Basic.
+  * Advance.
+  * Search and Rescue.
+* Water Sports.
+  * Swimming.
+  * Kayaking.
+  * River Rafting.
+* Paragliding Course from Auli.
+* Reptile Rescue Course.
+* Digital Music Production.
+* Close Combat Fighting.
+* Archery.
+* Basics of 2 Wheeler and 4 Wheeler Engine.
+* Free Style Running.
+* Triathlon.
+* Peaks to Summit.
+  * Stok Kangri.
+  * Nag Tibba.
+  * Hanuman Tibba.
+	
+
 ### Dev Life Cycle.
 
 * Feasibility or Detailed Analysis.
