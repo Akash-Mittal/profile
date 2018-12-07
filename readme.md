@@ -55,17 +55,17 @@
 ### Things to Learn/To Do - Thats interests me and are not techinical or relates to my profession !!.
 * Guitar 
 * Languages
-  * Gujrati.
-  * Kashimiri 
-  * German
+	* Gujrati.
+	* Kashimiri 
+	* German
 * Mountaineering Course.
-  * Basic.
-  * Advance.
-  * Search and Rescue.
+	* Basic.
+	* Advance.
+	* Search and Rescue.
 * Water Sports.
-  * Swimming.
-  * Kayaking.
-  * River Rafting.
+	* Swimming.
+	* Kayaking.
+	* River Rafting.
 * Paragliding Course from Auli.
 * Reptile Rescue Course.
 * Digital Music Production.
@@ -75,9 +75,9 @@
 * Free Style Running.
 * Triathlon.
 * Peaks to Summit.
-  * Stok Kangri.
-  * Nag Tibba.
-  * Hanuman Tibba.
+	* Stok Kangri.
+	* Nag Tibba.
+	* Hanuman Tibba.
 	
 
 ### Dev Life Cycle.
@@ -132,6 +132,17 @@
 		* [Nice Video](https://www.youtube.com/watch?v=o8NPllzkFhE)
 	* [Tim Ferris](https://en.wikipedia.org/wiki/Tim_Ferriss)		
 	* [Sam Manekshaw](https://en.wikipedia.org/wiki/Sam_Manekshaw)
+	* [Moorari Bapu](https://en.wikipedia.org/wiki/Morari_Bapu) 
+		* [Web Site](http://moraribapu.org/)
+	* [Sudhanshu G Mahraj]
+	* [Jim Rohn](https://en.wikipedia.org/wiki/Jim_Rohn)
 	
 * Books
+	* Ram Charitra Manas.
+	* Mahabharat.
+	* Upnishads.
+	* Purans.
+	* Kabir Vani.
+	* Marcus Aurelius
+	
 		
