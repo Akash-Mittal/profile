@@ -71,6 +71,7 @@
 * Digital Music Production.
 * Close Combat Fighting.
 * Archery.
+* Learn to Throw Boomerang.
 * Basics of 2 Wheeler and 4 Wheeler Engine.
 * [Free Style Running](https://en.wikipedia.org/wiki/Freerunning)
 * Triathlon.
