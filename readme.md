@@ -75,10 +75,12 @@
 * Basics of 2 Wheeler and 4 Wheeler Engine.
 * [Free Style Running](https://en.wikipedia.org/wiki/Freerunning)
 * Triathlon.
+* Cycling in Mustang Valley Nepal.
 * Peaks to Summit.
 	* Stok Kangri.
 	* Nag Tibba.
 	* Hanuman Tibba.
+
 	
 
 ### Dev Life Cycle.
