@@ -53,7 +53,7 @@
 * [CMDER](http://cmder.net/) - Portable console emulator for Windows  
 * [KataCoda](https://www.katacoda.com/learn) - Interactive Learning Platform.
    
-### Things to Learn/To Do - Thats interests me and are not techinical or relates to my profession !!.
+### Things to Learn/To Do - Thats interests me and are not technical or relates to my profession !!.
 * Guitar 
 * Languages
 	* Gujrati.
@@ -67,7 +67,7 @@
 	* Swimming.
 	* Kayaking.
 	* River Rafting.
-* Paragliding Course from Auli.
+* Para-gliding Course from Auli.
 * Reptile Rescue Course.
 * Digital Music Production.
 * Close Combat Fighting.
@@ -82,6 +82,7 @@
 	* Nag Tibba.
 	* Hanuman Tibba.
 * Chandrayan Tap.(This is One month Activity where one work Character Defects for first 15 Days full moon and work on adding new dimensions to one's character - This term i have heard from Sudhanshu G Mahraj)
+* Complete My Pending Book - Letter from Hell for My Daughter, Managing Finance Effectively and efficiently.
 
 	
 
