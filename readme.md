@@ -81,6 +81,7 @@
 	* Stok Kangri.
 	* Nag Tibba.
 	* Hanuman Tibba.
+* Chandrayan Tap.(This is One month Activity where one work Character Defects for first 15 Days full moon and work on adding new dimensions to one's character - This term i have heard from Sudhanshu G Mahraj)
 
 	
 
@@ -138,7 +139,7 @@
 	* [Sam Manekshaw](https://en.wikipedia.org/wiki/Sam_Manekshaw)
 	* [Moorari Bapu](https://en.wikipedia.org/wiki/Morari_Bapu) 
 		* [Web Site](http://moraribapu.org/)
-	* [Sudhanshu G Mahraj]
+	* [Sudhanshu G Mahraj](http://www.sudhanshujimaharaj.net/)
 	* [Jim Rohn](https://en.wikipedia.org/wiki/Jim_Rohn)
 	
 * Books
