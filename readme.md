@@ -83,6 +83,12 @@
 	* Hanuman Tibba.
 * Chandrayan Tap.(This is One month Activity where one work Character Defects for first 15 Days full moon and work on adding new dimensions to one's character - This term i have heard from Sudhanshu G Mahraj)
 * Complete My Pending Book - Letter from Hell for My Daughter, Managing Finance Effectively and efficiently.
+* Learn to Fire Weapons Effectively
+  * Glock / Baretta
+  * Spas 12
+  * AK 47
+  * Sniper Rifle.
+* Server in Indian Army for Atleast 10 Years.
 
 	
 
