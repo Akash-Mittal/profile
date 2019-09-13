@@ -38,7 +38,8 @@
 * React JS.
 * GRPC
 * [Gatling]( https://gatling.io/) - `AKKA` Based Load Testing. 
-   * Learn `Scala` to Use this tool.
+   * Learn `Scala` to Use this tool.[Article] (https://www.ibm.com/developerworks/library/j-scala01228/index.html) 
+   
 * [MongoDB `DB As Service`] (https://mlab.com/)
 *  Micro Services with [`Oracle Helidon`](https://helidon.io/) 
    * https://www.baeldung.com/microservices-oracle-helidon 
