@@ -53,7 +53,7 @@
 * [Jekyll](https://jekyllrb.com/) - Static Website Generator
 * [CMDER](http://cmder.net/) - Portable console emulator for Windows  
 * [KataCoda](https://www.katacoda.com/learn) - Interactive Learning Platform.
-* [Book Referred By Martin Fawler Domain Driver Designs ](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+* [Book Referred By Martin Fawler ](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) -  Domain Driver Designs By Eric Evan. 
 	* Download http://188.166.46.4/get/PDF/Eric%20Evans-Domain-Driven%20Design_%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software_14.pdf
    
 ### Things to Learn/To Do - Thats interests me and are not technical or relates to my profession !!.
