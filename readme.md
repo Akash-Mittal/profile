@@ -36,6 +36,7 @@
 		* Completed 8 Lessons to start from 48:23 / 4:05:05
 * Vert.x io - Eclipse's very own reactive framework. 
 * React JS.
+* Groovy  Familiar Java-like syntax without so much boilerplate code.[Taken From](https://docs.spring.io/spring-boot/docs/2.1.6.RELEASE/reference/htmlsingle/#getting-started-installing-the-cli)
 * GRPC
 * [Gatling]( https://gatling.io/) - `AKKA` Based Load Testing. 
    * Learn `Scala` to Use this tool.[Article] (https://www.ibm.com/developerworks/library/j-scala01228/index.html) 
