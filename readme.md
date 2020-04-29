@@ -28,33 +28,74 @@
 * Technical Consultant
 * Data Engineer.
 
-### Cool Stuff.
+### Things to Learn - Thats interests me.
 
 * Graph QL.
-    * https://www.howtographql.com/basics/0-introduction/
-    * https://www.youtube.com/watch?v=ed8SzALpx1Q  
+    * [Tutorial](https://www.howtographql.com/basics/0-introduction/)
+    * [Tutorial](https://www.youtube.com/watch?v=ed8SzALpx1Q)
 		* Completed 8 Lessons to start from 48:23 / 4:05:05
 * Vert.x io - Eclipse's very own reactive framework. 
 * React JS.
+* Groovy  Familiar Java-like syntax without so much boilerplate code.[Taken From](https://docs.spring.io/spring-boot/docs/2.1.6.RELEASE/reference/htmlsingle/#getting-started-installing-the-cli)
 * GRPC
-* Gatling - `AKKA` Based Load Testing. 
-   * https://gatling.io/
-   * Learn `Scala` to Use this tool.
-* MongoDB `DB As Service` https://mlab.com/
-*  Micro Services with `Oracle Helidon`
-   * https://helidon.io/
-   * https://www.baeldung.com/microservices-oracle-helidon 
-* Spring Webflux - Reactive Frame Work.
-   * Internally Use.
-      * https://projectreactor.io/
-   * https://dzone.com/articles/spring-webflux-getting-started
-   * https://www.infoq.com/presentations/reactive-streams-rsocket
-   * `From` - https://www.baeldung.com/java-weekly-253
-* Ratpack - Spring Boot Like FrameWork.
-   * https://ratpack.io/
-* Jekyll - Static Website Generator  https://jekyllrb.com/
-* CMDER - Portable console emulator for Windows  http://cmder.net/\
+* [Gatling]( https://gatling.io/) - `AKKA` Based Load Testing. 
+   * Learn `Scala` to Use this tool.[Article] (https://www.ibm.com/developerworks/library/j-scala01228/index.html) 
    
+* [MongoDB `DB As Service`] (https://mlab.com/)
+*  Micro Services with [`Oracle Helidon`](https://helidon.io/) 
+   * https://www.baeldung.com/microservices-oracle-helidon 
+* Spring Webflux - Reactive Frame Work.   * 
+   * [Tutorial](https://dzone.com/articles/spring-webflux-getting-started)
+   * [Tutorial](https://www.infoq.com/presentations/reactive-streams-rsocket)
+   * Internally Use.
+      * [Project Reactor](https://projectreactor.io/)
+   * [`Got to know From`](https://www.baeldung.com/java-weekly-253)
+* [Ratpack](https://ratpack.io/) - Spring Boot Like FrameWork.   
+* [Jekyll](https://jekyllrb.com/) - Static Website Generator
+* [CMDER](http://cmder.net/) - Portable console emulator for Windows  
+* [KataCoda](https://www.katacoda.com/learn) - Interactive Learning Platform.
+* [Book Referred By Martin Fawler ](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) -  DDD  By Eric Evan. 
+	* Download http://188.166.46.4/get/PDF/Eric%20Evans-Domain-Driven%20Design_%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software_14.pdf
+   
+### Things to Learn/To Do - Thats interests me and are not technical or relates to my profession !!.
+* Guitar 
+* Languages
+	* Gujrati.
+	* Kashimiri 
+	* German
+* Mountaineering Course.
+	* Basic.
+	* Advance.
+	* Search and Rescue.
+* Water Sports.
+	* Swimming.
+	* Kayaking.
+	* River Rafting.
+* Para-gliding Course from Auli.
+* Reptile Rescue Course.
+* Digital Music Production.
+* Close Combat Fighting.
+* Archery.
+* Learn to Throw Boomerang.
+* Basics of 2 Wheeler and 4 Wheeler Engine.
+* [Free Style Running](https://en.wikipedia.org/wiki/Freerunning)
+* Triathlon.
+* Cycling in Mustang Valley Nepal.
+* Peaks to Summit.
+	* Stok Kangri.
+	* Nag Tibba.
+	* Hanuman Tibba.
+* Chandrayan Tap.(This is One month Activity where one work Character Defects for first 15 Days full moon and work on adding new dimensions to one's character - This term i have heard from Sudhanshu G Mahraj)
+* Complete My Pending Book - Letter from Hell for My Daughter, Managing Finance Effectively and efficiently.
+* Learn to Fire Weapons Effectively
+  * Glock / Baretta
+  * Spas 12
+  * AK 47
+  * Sniper Rifle.
+* Server in Indian Army for Atleast 10 Years.
+
+	
+
 ### Dev Life Cycle.
 
 * Feasibility or Detailed Analysis.
@@ -73,6 +114,7 @@
 * Close JIRA After prod release.
 
 ### Work Ethics
+
 * Customer Interaction:
 	* Be Cautious 
 		* If you are in any Chat groups like Whats App with customer. 
@@ -94,19 +136,34 @@
 ### Favorites.
 
 * Conferences
-	* https://www.youtube.com/user/GotoConferences
+	* [GoTo Confrences..](https://www.youtube.com/user/GotoConferences)
 * Movies
-	* Gladiator
-		* https://oload.icu/f/d8NTCCAUj-8/Gladiator.2000.EXTENDED.REMASTERED.720p.BluRay.x264-SiNNERS.mkv.mp4
-		* https://movieninja.io/movie/gladiator-5x0mkj6y/watch#2ng8q1y70o2m9yjq
-	* People
-		* Scott Hanselman
-			* GOTO 2012 Scaling Yourself  https://www.youtube.com/watch?v=FS1mnISoG7U
-		* Linus Trovald
-			* https://www.youtube.com/watch?v=o8NPllzkFhE
-		* Tim Ferris
-			* https://en.wikipedia.org/wiki/Tim_Ferriss
-	* Books
-		* Read
-		* To Read
+	* [Gladiator](https://oload.icu/f/d8NTCCAUj-8/Gladiator.2000.EXTENDED.REMASTERED.720p.BluRay.x264-SiNNERS.mkv.mp4)
+		* [Another Link](https://movieninja.io/movie/gladiator-5x0mkj6y/watch#2ng8q1y70o2m9yjq)		
+	* [Behind Enemy Lines](http://putlockers.asia/behind-enemy-lines-2001/)
+	* Never Back Down.
+	* Notting Hill.
+	* Lakshya.
+	* Swades.
 	
+* People
+	* Scott Hanselman
+		* [GOTO 2012 Scaling Yourself](https://www.youtube.com/watch?v=FS1mnISoG7U)
+	* Linus Trovald
+		* [Nice Video](https://www.youtube.com/watch?v=o8NPllzkFhE)
+	* [Tim Ferris](https://en.wikipedia.org/wiki/Tim_Ferriss)		
+	* [Sam Manekshaw](https://en.wikipedia.org/wiki/Sam_Manekshaw)
+	* [Moorari Bapu](https://en.wikipedia.org/wiki/Morari_Bapu) 
+		* [Web Site](http://moraribapu.org/)
+	* [Sudhanshu G Mahraj](http://www.sudhanshujimaharaj.net/)
+	* [Jim Rohn](https://en.wikipedia.org/wiki/Jim_Rohn)
+	
+* Books
+	* Ram Charitra Manas.
+	* Mahabharat.
+	* Upnishads.
+	* Purans.
+	* Kabir Vani.
+	* Marcus Aurelius
+	
+		
